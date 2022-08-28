@@ -8,6 +8,11 @@ To install, go to the terminal of your Retropie. then enter these commands:
 ```bash
 cd RetroPie/roms/music/A-SIDE
 git clone https://github.com/jvan1234/wii-soundtrack
+cd wii-soundtrack
+mv everybody-votes.mp3 ..
+mv mii-channel.mp3 ..
+mv wii-bgm.mp3 ..
+mv wii-shop.mp3 ..
 ```
 
 That's it! Enjoy your music :)
