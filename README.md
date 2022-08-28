@@ -7,5 +7,7 @@ Before you can install these songs onto Retropie, make sure that you have instal
 To install, go to the terminal of your Retropie. then enter these commands:
 ```bash
 cd RetroPie/roms/music/A-SIDE
-git clone 
+git clone https://github.com/jvan1234/wii-soundtrack
 ```
+
+That's it! Enjoy your music :)
